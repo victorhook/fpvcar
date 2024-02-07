@@ -1,3 +1,5 @@
 *_prl
 *-backups
 *.DS_Store
+.pio
+*credentials.h
