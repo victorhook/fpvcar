@@ -3,3 +3,6 @@
 *.DS_Store
 .pio
 *credentials.h
+*.lck
+*-cache
+*#auto_saved_files#
