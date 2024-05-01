@@ -6,3 +6,8 @@
 *.lck
 *-cache
 *#auto_saved_files#
+*.gbr
+*.drl
+*.gbrjob
+*kicad_sch*
+*.vscode/
